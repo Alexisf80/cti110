@@ -1,3 +1,7 @@
+#Alexis Furmage
+#09-19-24
+#P1HW1
+##Writing code that collects info from user,processes information collected and display results to user.
 base = int(input("Enter an integer as the base value: "))
 exponent = int(input("Enter an integer as the exponent: "))
 result = base ** exponent
